@@ -3,8 +3,15 @@
 Atividade final feita na escola técnica, onde pude ter conhecimento e contato com a linguagem de programação em PHP. Fora, onde eu pude aprender a desenvolver web Sites, em html, css, php e também usando banco de dados dentro do próprio projeto.
 
 
-Obs: Atividade final não foi concluída por falta de tempo. Em breve terminarei com a parte do front-end na parte cadastro do animal. 
-![1658887214593](https://user-images.githubusercontent.com/90862900/228102011-068c6549-022f-4739-99aa-ce2bf9f2028e.jpeg)
-![1658887214372](https://user-images.githubusercontent.com/90862900/228102012-6fa882da-e712-4630-b745-7ad66e1bb9e5.jpeg)
-![1658887214411](https://user-images.githubusercontent.com/90862900/228102014-3af2613c-671a-4ff9-b8fb-761ace04938f.jpeg)
-![1658887214738](https://user-images.githubusercontent.com/90862900/228102019-09683031-18af-4fa9-b174-050246ea70c7.jpeg)
+Obs: Atividade final não foi concluída por falta de tempo. Atualizações do projeto. Em construção.
+A parte dos serviços e cadastros encontra-se em desenvolvimento.
+
+
+
+![pagina inicial](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/7b901e17-5e73-4989-88c6-73901d590f3b)
+![pagina inicial 2](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/f3d5ac42-927d-49c1-9e85-ef16f4bb6b34)
+![pagina inicial 3](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/9700ac48-4843-4dc5-8585-b433108cc13e)
+![Serviços](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/abc6419d-253c-4d9d-93ca-ec6e94f71278)
+![cadastro](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/b1f53850-ad91-487b-a9a2-4b0d76ce78e3)
+
+![contato](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/fea9dbe9-9d0e-4729-bc78-18f5765fc172)
