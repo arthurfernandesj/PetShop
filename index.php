@@ -107,6 +107,8 @@
         </div>
 
     </section>
+        
+         <p align='center'>© Todos direitos reservados pelas imagens, unsplash e Google.<br></p>
 
 </body>
 
