@@ -12,3 +12,8 @@ Sinto-me orgulhoso em apresentar o resultado dos meus esforços, pois refletem m
 
 Seja bem-vindo ao meu Projeto Final, um marco na minha jornada de aprendizado e uma prova tangível do meu amor pelo desenvolvimento web. 
 
+![Inicial](https://github.com/tutuhzin/PetShop/assets/90862900/3bd0ef71-4d58-4203-9103-8c839faf8f7b)
+![Inicial2](https://github.com/tutuhzin/PetShop/assets/90862900/6680b488-2b2b-44a6-b077-7477d75ae1d8)
+![inicial3](https://github.com/tutuhzin/PetShop/assets/90862900/026cacbd-3f03-4eff-b9fa-0b2b17004c97)
+![servico](https://github.com/tutuhzin/PetShop/assets/90862900/4d623f03-6e45-4907-ac98-f2f810374ea3)
+![cadastro](https://github.com/tutuhzin/PetShop/assets/90862900/b1361ec7-aa04-4be3-8d7d-28f3dc1b5998)
