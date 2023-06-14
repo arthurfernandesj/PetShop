@@ -1,17 +1,14 @@
 # Pet Shop - Atividade Final
 
-Atividade final feita na escola técnica, onde pude ter conhecimento e contato com a linguagem de programação em PHP. Fora, onde eu pude aprender a desenvolver web Sites, em html, css, php e também usando banco de dados dentro do próprio projeto.
+O Projeto Final desenvolvido na prestigiosa Escola Técnica de Brasília. Com o intuito de aprimorar meus conhecimentos e estabelecer um contato direto com as principais linguagens de programação, tais como PHP, MySQL, HTML e CSS, em um desafiante processo de aprendizado.
+Neste projeto, tive a oportunidade de criar um website completo, partindo do zero. Através de um curso especializado e dedicadas pesquisas, fui capaz de explorar ao máximo minha criatividade e habilidades técnicas, dando vida a um produto de excelência.
 
 
-Obs: Atividade final não foi concluída por falta de tempo. Atualizações do projeto: Em construção.
-A parte dos serviços e cadastros encontra-se em desenvolvimento.
+Ao longo dessa jornada desafiadora, aprendi a dominar a fluidez do PHP e a potência do MySQL, permitindo-me criar um sistema sólido e eficiente. Além disso, tornei-me hábil em dar forma ao visual das minhas páginas web utilizando HTML e CSS, proporcionando uma experiência visual atraente e intuitiva aos visitantes.
 
+Minha busca incessante pelo conhecimento impulsionou-me a superar obstáculos, aperfeiçoar cada detalhe e buscar soluções inovadoras. Cada linha de código foi cuidadosamente planejada e implementada, resultando em um website sofisticado e funcional, capaz de atender às necessidades contemporâneas.
 
+Sinto-me orgulhoso em apresentar o resultado dos meus esforços, pois refletem minha paixão pela programação e minha constante busca pela excelência. Convido você a explorar o website que criei e testemunhar o fruto do meu empenho. Prepare-se para se surpreender com a harmonia entre funcionalidade e estética, mergulhando em uma experiência digital que irá capturar sua atenção desde o primeiro momento.
 
-![pagina inicial](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/7b901e17-5e73-4989-88c6-73901d590f3b)
-![pagina inicial 2](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/f3d5ac42-927d-49c1-9e85-ef16f4bb6b34)
-![pagina inicial 3](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/9700ac48-4843-4dc5-8585-b433108cc13e)
-![Serviços](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/abc6419d-253c-4d9d-93ca-ec6e94f71278)
-![cadastro](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/b1f53850-ad91-487b-a9a2-4b0d76ce78e3)
+Seja bem-vindo ao meu Projeto Final, um marco na minha jornada de aprendizado e uma prova tangível do meu amor pelo desenvolvimento web. 
 
-![contato](https://github.com/tutuhzin/Pet_Shop_Atividade_Final/assets/90862900/fea9dbe9-9d0e-4729-bc78-18f5765fc172)

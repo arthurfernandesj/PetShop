@@ -29,7 +29,7 @@
                 <li>Entre outras... </li>
 
             </ul>
-            <a href="" class="button">Marcar Vacina</a>
+            <a href="Cadastro.php" class="button">Marcar Vacina</a>
         </div>
         <div class="grid-1-5">
             <h2>Básico</h2>
@@ -41,7 +41,7 @@
                 <li>Vacinas</li>
                 <li>Consultas </li>
             </ul>
-            <a href="" class="button">Comprar</a>
+            <a href="Cadastro.php" class="button">Comprar</a>
         </div>
         <div class="grid-1-5">
             <h2>Médio</h2>
@@ -54,7 +54,7 @@
                 <li>Exames de laboratórios</li>
                 <li>Taxi Dog</li>
             </ul>
-            <a href="" class="button">Comprar</a>
+            <a href="Cadastro.php" class="button">Comprar</a>
         </div>
         <div class="grid-1-5">
             <h2>Premium</h2>
@@ -70,7 +70,7 @@
                 <li> Adestramento e Cirurgias</li>
 
             </ul>
-            <a href="" class="button">Comprar </a>
+            <a href="Cadastro.php" class="button">Comprar </a>
         </div>
 
     </div>

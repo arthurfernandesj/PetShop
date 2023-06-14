@@ -26,7 +26,7 @@
         </nav>
 
         <nav>
-            <img src="imagens/logo.jpg" height="520px" width="660px" align="right">
+            <img src="imagens/logo1.jpg" height="520px" width="660px" align="right">
         </nav>
 
 
@@ -60,16 +60,6 @@
                 sempre!<br> Visamos o bem-estar animal com informações de qualidade aos consumidores nos
                 segmentos de alimentação, acessórios, medicamentos, banho e tosa, adoção e serviços
                 veterinários.
-
-                <!-- VISÕES DA EMPRESA 
-                <i class="fa fa-paw" aria-hidden="true"></i> Amor <br>
-                <i class="fa fa-paw" aria-hidden="true"></i> Natureza <br>
-                <i class="fa fa-paw" aria-hidden="true"></i> Integrando <br>
-                <i class="fa fa-paw" aria-hidden="true"></i> Modernidade e <br>
-                <i class="fa fa-paw" aria-hidden="true"></i> Atenção <br>
-                <i class="fa fa-paw" aria-hidden="true"></i> Intensa ao <br>
-                <i class="fa fa-paw" aria-hidden="true"></i> Ser <br>
--->
             </p>
         </nav> <!-- Fim da nav -->
     </section>
